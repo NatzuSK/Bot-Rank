@@ -1,0 +1,16 @@
+{
+    "token":"token-bot",
+    "mongodb":"link-mongodb",
+
+    "server":{
+       "id":"serverid",
+      "ch":"channelid"
+    }
+
+
+
+
+  
+
+}
+    
