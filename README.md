@@ -4,7 +4,7 @@
 
 
 - [Nextcord](https://github.com/nextcord/nextcord) (ไลบรารี Discord สำหรับ Python)
-- Python 3.10+
+- Python
 - MongoDB (ฐานข้อมูล)
 - JSON สำหรับ config
 
